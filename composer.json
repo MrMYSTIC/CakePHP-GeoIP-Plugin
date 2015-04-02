@@ -1,0 +1,29 @@
+{
+  "name": "mrmystic/cakephp-geoip-plugin",
+  "version": "1.0.0",
+  "description": "CakePHP plugin for MaxMind GeoIP",
+  "type": "cakephp-plugin",
+  "keywords": [
+    "cakephp",
+    "maxmind",
+    "geoip"
+  ],
+  "homepage": "https://github.com/MrMYSTIC/CakePHP-GeoIP-Plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergey Nazarov",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+    "composer/installers": "*"
+  },
+  "support": {
+    "issues": "https://github.com/MrMYSTIC/CakePHP-GeoIP-Plugin/issues",
+    "source": "https://github.com/MrMYSTIC/CakePHP-GeoIP-Plugin"
+  },
+  "extra": {
+    "installer-name": "GeoIp"
+  }
+}
